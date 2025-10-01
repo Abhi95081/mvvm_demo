@@ -59,10 +59,7 @@ User Action -> View -> ViewModel -> Model -> ViewModel -> View
 
 **✅ Advantages of MVVM**
 
-Separation of concerns → cleaner code.
-
-Easier unit testing (ViewModel can be tested without UI).
-
-Handles configuration changes gracefully.
-
-Works perfectly with Jetpack libraries (LiveData, StateFlow, Hilt, Room, Retrofit).
+- Separation of concerns → cleaner code.
+- Easier unit testing (ViewModel can be tested without UI).
+- Handles configuration changes gracefully.
+- Works perfectly with Jetpack libraries (LiveData, StateFlow, Hilt, Room, Retrofit).
